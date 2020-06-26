@@ -1,7 +1,7 @@
 import React from "react";
 import "../../assets/styles/components/Contact.scss";
 import Input from "../commons/Input";
-/* import mail from "../../../public/mail.php" */ 
+import mail from "../../mail.php" 
 
 const Contact = () => {
   return (
@@ -13,8 +13,8 @@ const Contact = () => {
               <h3>Contáctanos</h3>
             </div>
             <form
-             /* action= {mail}  */
-              action="./mail.php"
+             action= {mail}  
+             /* action="./mail.php" */
               method="post"
               className="form"
               id="contact-form"
