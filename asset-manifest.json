@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Covalu_index/static/css/main.e563ec61.chunk.css",
+    "main.js": "/Covalu_index/static/js/main.d64f4019.chunk.js",
+    "main.js.map": "/Covalu_index/static/js/main.d64f4019.chunk.js.map",
+    "runtime-main.js": "/Covalu_index/static/js/runtime-main.20806d75.js",
+    "runtime-main.js.map": "/Covalu_index/static/js/runtime-main.20806d75.js.map",
+    "static/js/2.9074da1e.chunk.js": "/Covalu_index/static/js/2.9074da1e.chunk.js",
+    "static/js/2.9074da1e.chunk.js.map": "/Covalu_index/static/js/2.9074da1e.chunk.js.map",
+    "index.html": "/Covalu_index/index.html",
+    "precache-manifest.f02c0b23c82ee13f1ba7e802c1e114e9.js": "/Covalu_index/precache-manifest.f02c0b23c82ee13f1ba7e802c1e114e9.js",
+    "service-worker.js": "/Covalu_index/service-worker.js",
+    "static/css/main.e563ec61.chunk.css.map": "/Covalu_index/static/css/main.e563ec61.chunk.css.map",
+    "static/js/2.9074da1e.chunk.js.LICENSE.txt": "/Covalu_index/static/js/2.9074da1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20806d75.js",
+    "static/js/2.9074da1e.chunk.js",
+    "static/css/main.e563ec61.chunk.css",
+    "static/js/main.d64f4019.chunk.js"
+  ]
+}
