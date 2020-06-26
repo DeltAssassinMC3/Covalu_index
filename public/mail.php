@@ -5,7 +5,7 @@ header('Content-Type: text/html; charset=UTF-8');
 
 if(isset($_POST['email'])) {
 
-$email_to = "ventas@covalu.com";
+$email_to = "bunbuher95@gmail.com";
 $email_subject = "Contacto desde el sitio web";
 
 if(!isset($_POST['name']) ||
@@ -33,6 +33,6 @@ $headers = 'From: '.$email_from."\r\n".
 mail($email_to, $email_subject, $email_message, $headers);
 
 echo "<script type='text/javascript'>alert('Tu mensaje ha sido enviado exitosamente');</script>";
-echo "<script type='text/javascript'>window.location.href='http://covalu.com';</script>";
+echo "<script type='text/javascript'>window.location.href='https://deltassassinmc3.github.io/Covalu_index/';</script>";
 }
 ?>
